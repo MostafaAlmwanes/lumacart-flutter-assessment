@@ -1,0 +1,32 @@
+LumaCart source audit
+UTC_TIMESTAMP=2026-07-13T07:02:15.871441Z
+
+== Counts ==
+Dart files: 66
+Application Dart files: 48
+Test/helper Dart files: 18
+Test suites: 16
+Android XML files: 15
+
+== Forbidden production logging and work markers ==
+No print/debugPrint/TODO/FIXME/HACK markers in lib.
+
+== Sensitive/binary artifacts ==
+No signing keys, credential property files, APKs, or AABs found.
+
+== Required delivery files ==
+OK README.md
+OK docs/requirements.md
+OK docs/visual-identity.md
+OK docs/ux-plan.md
+OK docs/architecture.md
+OK docs/progress.md
+OK docs/test-report.md
+OK docs/release-report.md
+OK assets/image-prompts.md
+OK assets/README.md
+
+== Git whitespace check ==
+
+EXIT_STATUS=0
+SOURCE_AUDIT_COMPLETE

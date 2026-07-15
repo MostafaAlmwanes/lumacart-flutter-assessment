@@ -1,0 +1,3 @@
+$ flutter clean
+bash: line 4: flutter: command not found
+EXIT_STATUS=127

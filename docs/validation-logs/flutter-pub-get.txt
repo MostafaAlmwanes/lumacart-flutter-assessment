@@ -1,0 +1,3 @@
+$ flutter pub get
+environment: line 2: flutter: command not found
+EXIT_STATUS=127

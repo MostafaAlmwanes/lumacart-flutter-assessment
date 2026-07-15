@@ -1,0 +1,3 @@
+$ dart format --set-exit-if-changed .
+environment: line 2: dart: command not found
+EXIT_STATUS=127
