@@ -10,7 +10,6 @@ environment:
 flutter:
   uses-material-design: true
   assets:
-      - assets/placeholders/
       - assets/generated/auth_pattern.png
       - assets/generated/avatar_placeholder.png
       - assets/generated/empty_cart.png
